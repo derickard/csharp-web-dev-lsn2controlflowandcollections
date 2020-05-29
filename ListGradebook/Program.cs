@@ -24,7 +24,7 @@ namespace ListGradebook
                 {
                     students.Add(newStudent);
                 }
-
+                
             } while (!Equals(newStudent, ""));
 
             // Get student grades
